@@ -1,0 +1,719 @@
+{
+  "logo": [
+    {
+      "image": "https://www.themezaa.com/html/pofo/images/logo.png",
+      "id": 1
+    },
+    {
+      "image": "http://www.themezaa.com/html/pofo/images/logo-white.png",
+      "id": 2
+    }
+  ],
+  "links": [
+    {
+      "id": 1,
+      "title": "facebook",
+      "link": "https://www.facebook.com/abdulrahmanrizk24",
+      "icon": "<i class='fa-brands fa-facebook-f'></i>"
+    },
+    {
+      "id": 2,
+      "title": "twitter",
+      "link": "https://twitter.com/abdulrahman_rizk17",
+      "icon": "<i class='fa-brands fa-twitter'></i>"
+    },
+    {
+      "id": 3,
+      "title": "linkedin",
+      "link": "https://www.linkedin.com/in/abdorizk/",
+      "icon": "<i class='fa-brands fa-linkedin-in'></i>"
+    },
+    {
+      "id": 4,
+      "title": "instagram",
+      "link": "https://www.instagram.com/abdulrahman_rizk17/",
+      "icon": "<i class='fa-brands fa-instagram'></i>"
+    },
+    {
+      "title": "123456",
+      "link": "https://abdo.deeplook.com.eg/phones/",
+      "icon": "<i class=\"fa-brands fa-linkedin\"></i>",
+      "id": 5
+    }
+  ],
+  "sliders": [
+    {
+      "title": "slider 01",
+      "description": "Slider 02 Description",
+      "image": "https://www.themezaa.com/html/pofo/images/homepage-9-slider-img-1.jpg",
+      "id": 2
+    },
+    {
+      "title": "Third slide label",
+      "description": "Lorem ipsum dolor sit amet11111113333, consectetur adipiscing elit.",
+      "image": "https://i.imgur.com/mi3qdr7.jpg",
+      "id": 3
+    },
+    {
+      "title": "03",
+      "description": "03030303",
+      "image": "https://i.imgur.com/wLpthlc.jpg",
+      "id": 4
+    }
+  ],
+  "subSlider": [
+    {
+      "image": "https://www.themezaa.com/html/pofo/images/homepage-9-slider-img-1.jpg",
+      "id": 1
+    }
+  ],
+  "about": [
+    {
+      "title": "about us",
+      "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. They live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+      "description2": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences",
+      "image": "https://i.imgur.com/R9oeNkK.jpg",
+      "id": 1
+    }
+  ],
+  "more": [
+    {
+      "title": "our vision0",
+      "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. They live in Bookmarksgrove right at the coast of the Semantics, a large language ocean0",
+      "image": "https://i.imgur.com/co6QOeO.jpg",
+      "id": 1
+    },
+    {
+      "title": "our mission",
+      "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. They live in Bookmarksgrove right at the coast of the Semantics, a large languagse ocean",
+      "image": "https://i.imgur.com/co6QOeO.jpg",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "our message",
+      "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. They live in Bookmarksgrove right at the coast of the Semantics, a large language ocean",
+      "image": "https://i.imgur.com/co6QOeO.jpg"
+    },
+    {
+      "title": "asdasdsd",
+      "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in sadsadsadsac   right at the coast of the Semantics, a larges",
+      "image": "https://i.imgur.com/R9oeNkK.jpg",
+      "id": 4
+    }
+  ],
+  "headServices": [
+    {
+      "id": 1,
+      "span": "WHAT WE CAN DO FOR YOU",
+      "title": "Services Provide For You.",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration."
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Awarded Design",
+      "description": "There are many variations variats.",
+      "image": "https://i.imgur.com/ApHkQIT.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Design & Creative",
+      "description": "Passages there are many variatin.",
+      "image": "https://i.imgur.com/ApHkQIT.jpg"
+    },
+    {
+      "id": 3,
+      "title": "App Development",
+      "description": "Variations There are many of pass.",
+      "image": "https://i.imgur.com/ApHkQIT.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Awarded Design",
+      "description": "There are many variations variats.",
+      "image": "https://i.imgur.com/ApHkQIT.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Design & Creative",
+      "description": "Passages there are many variatin.",
+      "image": "https://i.imgur.com/ApHkQIT.jpg"
+    },
+    {
+      "id": 6,
+      "title": "App Development",
+      "description": "Variations There are many of pass.",
+      "image": "https://i.imgur.com/ApHkQIT.jpg"
+    },
+    {
+      "title": "1",
+      "description": "ssssssssssssssssssssssssssssssssssssssssssssssssss",
+      "image": "https://i.imgur.com/g7wmyUS_d.jpg?maxwidth=520&shape=thumb&fidelity=high",
+      "id": 7
+    }
+  ],
+  "headPortfolio": [
+    {
+      "id": 1,
+      "span": "PORTFOLIO DEFAULT",
+      "titleHome": "You Can Customize Everything!",
+      "titleInner": "Related Projects",
+      "description": ""
+    }
+  ],
+  "itemData": [
+    {
+      "title": "Graphic Design",
+      "category": "graphic",
+      "image": "https://i.imgur.com/TOLoMCM.png",
+      "date": "2023-12",
+      "client": "Company1",
+      "urlProject": "https://www.elezaby-group.com/profile",
+      "description": "In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme). that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree. that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "portfolioItemId": 3,
+      "title": "Social Media",
+      "category": "social",
+      "image": "https://i.imgur.com/TOLoMCM.png",
+      "date": "2022-05",
+      "client": "Company1",
+      "urlProject": "https://www.elezaby-group.com/profile",
+      "description": "In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme). that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree. that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.",
+      "portfolioCarousel": [
+        {
+          "id": 1,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 2,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 3,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 4,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 5,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 6,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "portfolioItemId": 4,
+      "title": "Web Development",
+      "category": "social",
+      "image": "https://i.imgur.com/TOLoMCM.png",
+      "date": "2022-05",
+      "client": "Company1",
+      "urlProject": "https://www.elezaby-group.com/profile",
+      "description": "In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme). that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree. that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.",
+      "portfolioCarousel": [
+        {
+          "id": 1,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 2,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 3,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 4,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 5,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 6,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "portfolioItemId": 5,
+      "title": "Web Development",
+      "category": "web",
+      "image": "https://i.imgur.com/TOLoMCM.png",
+      "date": "2022-05",
+      "client": "Company1",
+      "urlProject": "https://www.elezaby-group.com/profile",
+      "description": "In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme). that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree. that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.",
+      "portfolioCarousel": [
+        {
+          "id": 1,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 2,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 3,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 4,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 5,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 6,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "portfolioItemId": 6,
+      "title": "Social Media",
+      "category": "social",
+      "image": "https://i.imgur.com/TOLoMCM.png",
+      "date": "2022-05",
+      "client": "Company1",
+      "urlProject": "https://www.elezaby-group.com/profile",
+      "description": "In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme). that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree. that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.",
+      "portfolioCarousel": [
+        {
+          "id": 1,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 2,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 3,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 4,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 5,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 6,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "portfolioItemId": 7,
+      "title": "App Development",
+      "category": "app",
+      "image": "https://i.imgur.com/TOLoMCM.png",
+      "date": "2022-05",
+      "client": "Company1",
+      "urlProject": "https://www.elezaby-group.com/profile",
+      "description": "In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme). that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree. that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.",
+      "portfolioCarousel": [
+        {
+          "id": 1,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 2,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 3,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 4,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 5,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 6,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "portfolioItemId": 8,
+      "title": "Graphic Design",
+      "category": "graphic",
+      "image": "https://i.imgur.com/TOLoMCM.png",
+      "date": "2022-05",
+      "client": "Company1",
+      "urlProject": "https://www.elezaby-group.com/profile",
+      "description": "In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme). that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree. that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.",
+      "portfolioCarousel": [
+        {
+          "id": 1,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 2,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 3,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 4,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 5,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 6,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "portfolioItemId": 9,
+      "title": "App Development",
+      "category": "app",
+      "image": "https://i.imgur.com/TOLoMCM.png",
+      "date": "2022-05",
+      "client": "Company1",
+      "urlProject": "https://www.elezaby-group.com/profile",
+      "description": "In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme). that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree. that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.",
+      "portfolioCarousel": [
+        {
+          "id": 1,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 2,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 3,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 4,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 5,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 6,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        }
+      ]
+    },
+    {
+      "title": "123",
+      "category": "web",
+      "image": "https://i.imgur.com/lELpzAT.jpg",
+      "date": "2023-10-26",
+      "client": "132",
+      "urlProject": "https://i.imgur.com/lELpzAT.jpg",
+      "description": "sadsd",
+      "id": 10,
+      "portfolioItemId": 10,
+      "portfolioCarousel": [
+        {
+          "id": 1,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 2,
+          "image": "https://i.imgur.com/lELpzAT.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 4,
+          "image": "https://i.imgur.com/lELpzAT.jpg"
+        },
+        {
+          "id": 5,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        }
+      ]
+    },
+    {
+      "title": "123",
+      "category": "graphic",
+      "image": "https://i.imgur.com/lELpzAT.jpg",
+      "date": "2023-08",
+      "client": "132",
+      "urlProject": "https://i.imgur.com/lELpzAT.jpg",
+      "description": "5",
+      "id": 11,
+      "portfolioItemId": 11,
+      "portfolioCarousel": [
+        {
+          "id": 1,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 2,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 3,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 4,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 5,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        },
+        {
+          "id": 6,
+          "image": "https://i.imgur.com/TOLoMCM.png"
+        }
+      ]
+    }
+  ],
+  "portfolioCarousel0": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/TOLoMCM.png"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/TOLoMCM.png"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/TOLoMCM.png"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/TOLoMCM.png"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/TOLoMCM.png"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/TOLoMCM.png"
+    }
+  ],
+  "contact": [
+    {
+      "title": "Contact Us",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration. Contact Us for more information.0000",
+      "email": "admin@gmail.com",
+      "phone": "012 3456 789",
+      "phoneLink": "+20123456789",
+      "location": "Online0",
+      "emailImg": "https://i.imgur.com/7Zl2sbw.png",
+      "phoneImg": "https://i.imgur.com/7Zl2sbw.png",
+      "locationImg": "https://i.imgur.com/7Zl2sbw.png",
+      "id": 1
+    }
+  ],
+  "contactForm": [
+    {
+      "name": "",
+      "phone": "",
+      "email": "",
+      "subject": "",
+      "message": "",
+      "id": 1
+    },
+    {
+      "name": "2",
+      "phone": "2",
+      "email": "2@2.2",
+      "subject": "2",
+      "message": "2",
+      "id": 2
+    }
+  ],
+  "headOrderPrice": [
+    {
+      "id": 1,
+      "title": "Request a price",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration."
+    }
+  ],
+  "headContactRequest": [
+    {
+      "title": "Contact Request",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "app"
+    },
+    {
+      "id": 2,
+      "title": "social"
+    },
+    {
+      "id": 3,
+      "title": "web"
+    },
+    {
+      "id": 4,
+      "title": "graphic"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "username": "admin@gmail.com",
+      "password": "0123456789",
+      "id": 1
+    },
+    {
+      "email": "abdorizk49@gmail.com",
+      "username": "abdorizk49",
+      "password": "01115483790",
+      "id": 2
+    },
+    {
+      "email": "1@ss.s",
+      "username": "1",
+      "password": "1",
+      "id": 3
+    },
+    {
+      "email": "1@ss.s",
+      "username": "1",
+      "password": "1",
+      "id": 4
+    },
+    {
+      "email": "abdorizk49@gmail.com",
+      "username": "abdorizk49",
+      "password": "01115483790",
+      "id": 5
+    },
+    {
+      "email": "abdorizk49@gmail.com",
+      "username": "abdorizk49",
+      "password": "01115483790",
+      "id": 6
+    },
+    {
+      "email": "abdorizk49@gmail.com",
+      "username": "abdorizk49",
+      "password": "01115483790",
+      "id": 7
+    }
+  ],
+  "orderContact": [
+    {
+      "name": "",
+      "phone": "",
+      "email": "",
+      "id": 1
+    },
+    {
+      "name": "0",
+      "phone": "0",
+      "email": "a@a.a",
+      "id": 2
+    },
+    {
+      "name": "0",
+      "phone": "0",
+      "email": "0@00.0",
+      "id": 3
+    }
+  ],
+  "orderPrice": [
+    {
+      "name": "",
+      "phone": "",
+      "email": "",
+      "subject": "",
+      "message": "",
+      "id": 1
+    },
+    {
+      "name": "Abdulrahman Rizk",
+      "phone": "01157764406",
+      "email": "abdorizk49@gmail.com",
+      "subject": "web",
+      "message": "s",
+      "id": 2
+    },
+    {
+      "name": "Abdulrahman Rizk",
+      "phone": "01157764406",
+      "email": "abdorizk49@gmail.com",
+      "subject": "graphic",
+      "message": "uio",
+      "id": 3
+    },
+    {
+      "name": "a",
+      "phone": "01",
+      "email": "abdorizk49@gmail.com",
+      "subject": "1",
+      "message": "a",
+      "id": 4
+    },
+    {
+      "name": "00",
+      "phone": "00",
+      "email": "0@0.c",
+      "subject": "0",
+      "message": "0\n",
+      "id": 5
+    },
+    {
+      "name": "0",
+      "phone": "0",
+      "email": "0@0.0",
+      "subject": "00",
+      "message": "0\n",
+      "id": 6
+    },
+    {
+      "name": "Abdulrahman Rizk",
+      "phone": "01157764406",
+      "email": "abdorizk49@gmail.com",
+      "subject": "social",
+      "message": "012\n",
+      "id": 7
+    }
+  ]
+}
